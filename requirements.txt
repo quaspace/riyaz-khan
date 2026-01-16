@@ -1,0 +1,5 @@
+# The Mirror (Systems Architect Edition)
+# Requirements file
+
+# No external dependencies required for core functionality
+# Built with Python standard library only
